@@ -4,5 +4,8 @@
     <artifactId>spigot</artifactId>
     <versioning>
         <release>1.16.5</release>
+        <versions>
+            <version>1.16.5</version>
+        </versions>
     </versioning>
 </metadata>
